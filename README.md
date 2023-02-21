@@ -1,5 +1,5 @@
 #### Hello, my name is Alex 👋
-- 🌱 I'm currently learning web development
+- 🌱 I'm currently learning WEB development
 <!--
 **Alexandre-Lopez/Alexandre-Lopez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
